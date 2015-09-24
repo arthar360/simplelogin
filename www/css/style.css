@@ -1,1 +1,9 @@
-/* Empty. Add your own CSS if you like */
+
+#footer {
+	height:100%;
+	margin-top:102%;
+}
+
+.col {
+	padding:2px;
+}
