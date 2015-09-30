@@ -1,5 +1,5 @@
-var baseUrl = "https://pod.yearsleygroup.co.uk:2900";
-//var baseUrl = "https://192.168.12.16:2900";
+var baseUrl = "";
+//var baseUrl = "";
 
 
 angular.module('starter.services', [])
