@@ -1,4 +1,4 @@
-var baseUrl = "https://pod.yearsleygroup.co.uk:2900";
+var baseUrl = "";
 //var baseUrl = "";
 
 
